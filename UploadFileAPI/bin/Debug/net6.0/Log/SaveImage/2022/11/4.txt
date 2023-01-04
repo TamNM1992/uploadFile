@@ -1,0 +1,102 @@
+﻿[13:12:35] Số lượng file : 4
+[13:12:37] thành công file 114202261237AM.jpg
+[13:12:37] Số lượng file : 4
+[13:12:40] thành công file 114202261240AM.jpg
+[13:12:40] Số lượng file : 4
+[13:12:40] thành công file 114202261240AM.jpg
+[13:12:40] Số lượng file : 4
+[13:12:40] thành công file 114202261240AM.jpg
+[13:23:57] Số lượng file : 3
+[13:23:57] thành công file 114202262357AM.jpg
+[13:23:57] Số lượng file : 3
+[13:23:57] thành công file 114202262357AM.jpg
+[13:23:57] Số lượng file : 3
+[13:23:57] thành công file 114202262357AM.jpg
+[13:32:44] Số lượng file : 5
+[13:32:44] thành công file 114202263244AM.jpg
+[13:32:44] Số lượng file : 5
+[13:32:44] thành công file 114202263244AM.jpg
+[13:32:44] Số lượng file : 5
+[13:32:44] thành công file 114202263244AM.jpg
+[13:32:44] Số lượng file : 5
+[13:32:44] thành công file 114202263244AM.jpg
+[13:32:44] Số lượng file : 5
+[13:32:44] thành công file 114202263244AM.jpg
+[13:37:09] Số lượng file : 5
+[13:37:09] thành công file 114202263709AM.jpg
+[13:37:09] Số lượng file : 5
+[13:37:09] thành công file 114202263709AM.jpg
+[13:37:09] Số lượng file : 5
+[13:37:09] thành công file 114202263709AM.jpg
+[13:37:09] Số lượng file : 5
+[13:37:09] thành công file 114202263709AM.jpg
+[13:37:09] Số lượng file : 5
+[13:37:09] thành công file 114202263709AM.jpg
+[13:37:39] Số lượng file : 5
+[13:37:39] thành công file 114202263739AM.jpg
+[13:37:39] Số lượng file : 5
+[13:37:39] thành công file 114202263739AM.jpg
+[13:37:39] Số lượng file : 5
+[13:37:39] thành công file 114202263739AM.jpg
+[13:37:39] Số lượng file : 5
+[13:37:39] thành công file 114202263739AM.jpg
+[13:37:39] Số lượng file : 5
+[13:37:39] thành công file 114202263739AM.jpg
+[13:39:40] Số lượng file : 6
+[13:39:40] thành công file 114202263940AM.jpg
+[13:39:40] Số lượng file : 6
+[13:39:40] thành công file 114202263940AM.jpg
+[13:39:40] Số lượng file : 6
+[13:39:40] thành công file 114202263940AM.jpg
+[13:39:40] Số lượng file : 6
+[13:39:40] thành công file 114202263940AM.jpg
+[13:39:40] Số lượng file : 6
+[13:39:40] thành công file 114202263940AM.jpg
+[13:39:40] Số lượng file : 6
+[13:39:40] thành công file 114202263940AM.jpg
+[13:45:16] Số lượng file : 5
+[13:45:17] thành công file 114202264516AM.jpg
+[13:45:17] Số lượng file : 5
+[13:45:17] thành công file 114202264517AM.jpg
+[13:45:17] Số lượng file : 5
+[13:45:17] thành công file 114202264517AM.jpg
+[13:45:17] Số lượng file : 5
+[13:45:17] thành công file 114202264517AM.jpg
+[13:45:17] Số lượng file : 5
+[13:45:17] thành công file 114202264517AM.jpg
+[13:50:20] Số lượng file : 9
+[13:50:20] thành công file 114202265020AM000000000000000000000000.jpg
+[13:50:20] Số lượng file : 9
+[13:50:20] thành công file 114202265020AM001001001001001001001001.jpg
+[13:50:20] Số lượng file : 9
+[13:50:20] thành công file 114202265020AM002002002002002002002002.jpg
+[13:50:20] Số lượng file : 9
+[13:50:20] thành công file 114202265020AM003003003003003003003003.jpg
+[13:50:20] Số lượng file : 9
+[13:50:20] thành công file 114202265020AM004004004004004004004004.jpg
+[13:50:20] Số lượng file : 9
+[13:50:20] thành công file 114202265020AM005005005005005005005005.jpg
+[13:50:20] Số lượng file : 9
+[13:50:21] thành công file 114202265020AM006006006006006006006006.jpg
+[13:50:21] Số lượng file : 9
+[13:50:21] thành công file 114202265021AM007007007007007007007007.jpg
+[13:50:21] Số lượng file : 9
+[13:50:21] thành công file 114202265021AM008008008008008008008008.jpg
+[13:56:04] Số lượng file : 9
+[13:56:05] thành công file 114202265604AM000.jpg
+[13:56:05] Số lượng file : 9
+[13:56:05] thành công file 114202265605AM001.jpg
+[13:56:05] Số lượng file : 9
+[13:56:05] thành công file 114202265605AM002.jpg
+[13:56:05] Số lượng file : 9
+[13:56:05] thành công file 114202265605AM003.jpg
+[13:56:05] Số lượng file : 9
+[13:56:05] thành công file 114202265605AM004.jpg
+[13:56:05] Số lượng file : 9
+[13:56:05] thành công file 114202265605AM005.jpg
+[13:56:05] Số lượng file : 9
+[13:56:05] thành công file 114202265605AM006.jpg
+[13:56:05] Số lượng file : 9
+[13:56:05] thành công file 114202265605AM007.jpg
+[13:56:05] Số lượng file : 9
+[13:56:05] thành công file 114202265605AM008.jpg

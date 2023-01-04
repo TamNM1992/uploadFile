@@ -1,0 +1,6 @@
+﻿[11:48:51] Số lượng file : 1
+[11:48:51] Lỗi rồi : System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Image.LoadGdipImageFromStream(GPStream stream, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   at UploadFileAPI.Services.UploadServices.ThayDoiKichThuocAnh(String ImageSavePath, String fileName, Int32 MaxWidthSideSize, FileStream Buffer) in D:\GoStay\UploadFile\UploadFileAPI\UploadFileAPI\Services\UploadServices.cs:line 15
+   at UploadFilesAPI.Controllers.UploadFileController.UploadFileAsync(List`1 file, Int32 width, String Hotel_Id, String Room_Id) in D:\GoStay\UploadFile\UploadFileAPI\UploadFileAPI\Controllers\UploadFileController.cs:line 200

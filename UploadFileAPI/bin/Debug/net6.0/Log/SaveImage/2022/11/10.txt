@@ -1,0 +1,10 @@
+﻿[15:57:14] Số lượng file : 1
+[15:57:14] thành công file 1110202285714AM000.jpg
+[16:03:37] Số lượng file : 4
+[16:03:37] thành công file 1110202290337AM000.jpeg
+[16:03:37] Số lượng file : 4
+[16:03:37] thành công file 1110202290337AM001.jpg
+[16:03:37] Số lượng file : 4
+[16:03:37] thành công file 1110202290337AM002.jpg
+[16:03:37] Số lượng file : 4
+[16:03:38] thành công file 1110202290337AM003.jpg

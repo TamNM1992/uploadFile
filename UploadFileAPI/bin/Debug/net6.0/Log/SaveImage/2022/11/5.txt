@@ -1,0 +1,247 @@
+﻿[10:13:03] Số lượng file : 2
+[10:13:03] thành công file 115202231303AM000.jpg
+[10:13:03] Số lượng file : 2
+[10:13:03] thành công file 115202231303AM001.jpg
+[10:19:58] Số lượng file : 4
+[10:19:58] thành công file 115202231958AM000.jpg
+[10:19:58] Số lượng file : 4
+[10:19:58] thành công file 115202231958AM001.jpg
+[10:19:58] Số lượng file : 4
+[10:19:58] thành công file 115202231958AM002.jpg
+[10:19:58] Số lượng file : 4
+[10:19:58] thành công file 115202231958AM003.jpg
+[10:31:15] Số lượng file : 6
+[10:31:15] thành công file 115202233115AM000.jpg
+[10:31:15] Số lượng file : 6
+[10:31:15] thành công file 115202233115AM001.jpg
+[10:31:15] Số lượng file : 6
+[10:31:15] thành công file 115202233115AM002.jpg
+[10:31:15] Số lượng file : 6
+[10:31:15] thành công file 115202233115AM003.jpg
+[10:31:15] Số lượng file : 6
+[10:31:15] thành công file 115202233115AM004.jpg
+[10:31:15] Số lượng file : 6
+[10:31:15] thành công file 115202233115AM005.jpg
+[10:43:36] Số lượng file : 5
+[10:43:36] thành công file 115202234336AM000.jpg
+[10:43:36] Số lượng file : 5
+[10:43:37] thành công file 115202234336AM001.jpg
+[10:43:37] Số lượng file : 5
+[10:43:37] thành công file 115202234337AM002.jpg
+[10:43:37] Số lượng file : 5
+[10:43:37] thành công file 115202234337AM003.jpg
+[10:43:37] Số lượng file : 5
+[10:43:37] thành công file 115202234337AM004.jpg
+[10:44:38] Số lượng file : 5
+[10:44:38] thành công file 115202234438AM000.jpg
+[10:44:38] Số lượng file : 5
+[10:44:38] thành công file 115202234438AM001.jpg
+[10:44:38] Số lượng file : 5
+[10:44:38] thành công file 115202234438AM002.jpg
+[10:44:38] Số lượng file : 5
+[10:44:38] thành công file 115202234438AM003.jpg
+[10:44:38] Số lượng file : 5
+[10:44:38] thành công file 115202234438AM004.jpg
+[10:50:05] Số lượng file : 4
+[10:50:05] thành công file 115202235005AM000.jpg
+[10:50:05] Số lượng file : 4
+[10:50:05] thành công file 115202235005AM001.jpg
+[10:50:05] Số lượng file : 4
+[10:50:06] thành công file 115202235005AM002.jpg
+[10:50:06] Số lượng file : 4
+[10:50:06] thành công file 115202235006AM003.jpg
+[11:03:31] Số lượng file : 6
+[11:03:31] thành công file 115202240331AM000.jpg
+[11:03:31] Số lượng file : 6
+[11:03:31] thành công file 115202240331AM001.jpg
+[11:03:31] Số lượng file : 6
+[11:03:31] thành công file 115202240331AM002.jpg
+[11:03:31] Số lượng file : 6
+[11:03:31] thành công file 115202240331AM003.jpg
+[11:03:31] Số lượng file : 6
+[11:03:31] thành công file 115202240331AM004.jpg
+[11:03:31] Số lượng file : 6
+[11:03:31] thành công file 115202240331AM005.jpg
+[11:41:22] Số lượng file : 5
+[11:41:22] thành công file 115202244122AM000.jpg
+[11:41:22] Số lượng file : 5
+[11:41:22] thành công file 115202244122AM001.jpg
+[11:41:22] Số lượng file : 5
+[11:41:22] thành công file 115202244122AM002.jpg
+[11:41:22] Số lượng file : 5
+[11:41:22] thành công file 115202244122AM003.jpg
+[11:41:22] Số lượng file : 5
+[11:41:22] thành công file 115202244122AM004.jpg
+[11:43:42] Số lượng file : 2
+[11:44:06] thành công file 115202244347AM000.jpg
+[11:44:12] Số lượng file : 2
+[11:44:14] thành công file 115202244412AM001.jpg
+[11:58:04] Số lượng file : 4
+[11:58:11] thành công file 115202245804AM000.jpg
+[11:58:11] Số lượng file : 4
+[11:58:15] thành công file 115202245811AM001.jpg
+[11:58:15] Số lượng file : 4
+[11:58:17] thành công file 115202245815AM002.jpg
+[11:58:17] Số lượng file : 4
+[11:58:39] thành công file 115202245817AM003.jpg
+[12:00:53] Số lượng file : 3
+[12:00:53] thành công file 115202250053AM000.jpg
+[12:00:53] Số lượng file : 3
+[12:00:53] thành công file 115202250053AM001.jpg
+[12:00:53] Số lượng file : 3
+[12:00:54] thành công file 115202250053AM002.jpg
+[12:02:13] Số lượng file : 4
+[12:02:13] thành công file 115202250213AM000.jpg
+[12:02:13] Số lượng file : 4
+[12:02:13] thành công file 115202250213AM001.jpg
+[12:02:13] Số lượng file : 4
+[12:02:13] thành công file 115202250213AM002.jpg
+[12:02:13] Số lượng file : 4
+[12:02:13] thành công file 115202250213AM003.jpg
+[12:12:43] Số lượng file : 2
+[12:12:43] thành công file 115202251243AM000.jpg
+[12:12:43] Số lượng file : 2
+[12:12:43] thành công file 115202251243AM001.jpg
+[12:18:10] Số lượng file : 3
+[12:18:10] thành công file 115202251810AM000.jpg
+[12:18:10] Số lượng file : 3
+[12:18:10] thành công file 115202251810AM001.jpg
+[12:18:10] Số lượng file : 3
+[12:18:10] thành công file 115202251810AM002.jpg
+[12:22:25] Số lượng file : 2
+[12:22:25] thành công file 115202252225AM000.jpg
+[12:22:25] Số lượng file : 2
+[12:22:25] thành công file 115202252225AM001.jpg
+[12:25:00] Số lượng file : 1
+[12:25:21] thành công file 115202252500AM000.jpg
+[12:28:21] Số lượng file : 1
+[12:28:26] thành công file 115202252821AM000.jpg
+[12:30:50] Số lượng file : 1
+[12:30:55] thành công file 115202253050AM000.jpg
+[12:41:45] Số lượng file : 1
+[12:41:45] thành công file 115202254145AM000.jpg
+[13:08:00] Số lượng file : 1
+[13:08:00] thành công file 115202260800AM000.jpg
+[13:16:08] Số lượng file : 2
+[13:16:08] thành công file 115202261608AM000.jpg
+[13:16:08] Số lượng file : 2
+[13:16:08] thành công file 115202261608AM001.jpg
+[13:18:24] Số lượng file : 2
+[13:18:24] thành công file 115202261824AM000.jpg
+[13:18:24] Số lượng file : 2
+[13:18:24] thành công file 115202261824AM001.jpg
+[13:25:13] Số lượng file : 3
+[13:25:13] thành công file 115202262513AM000.jpg
+[13:25:13] Số lượng file : 3
+[13:25:13] thành công file 115202262513AM001.jpg
+[13:25:13] Số lượng file : 3
+[13:25:13] thành công file 115202262513AM002.jpg
+[13:27:01] Số lượng file : 3
+[13:27:03] thành công file 115202262701AM000.jpg
+[13:27:03] Số lượng file : 3
+[13:27:03] thành công file 115202262703AM001.jpg
+[13:27:03] Số lượng file : 3
+[13:27:03] thành công file 115202262703AM002.jpg
+[13:33:06] Số lượng file : 3
+[13:33:06] thành công file 115202263306AM000.jpg
+[13:33:08] Số lượng file : 3
+[13:33:08] thành công file 115202263308AM001.jpg
+[13:33:09] Số lượng file : 3
+[13:33:09] thành công file 115202263309AM002.jpg
+[13:40:02] Số lượng file : 3
+[13:40:02] thành công file 115202264002AM000.jpg
+[13:40:02] Số lượng file : 3
+[13:40:02] thành công file 115202264002AM001.jpg
+[13:40:02] Số lượng file : 3
+[13:40:02] thành công file 115202264002AM002.jpg
+[13:49:27] Số lượng file : 2
+[13:49:28] thành công file 115202264927AM000.jpg
+[13:58:06] Số lượng file : 3
+[13:58:06] thành công file 115202265806AM000.jpg
+[13:58:06] Số lượng file : 3
+[13:58:06] thành công file 115202265806AM001.jpg
+[13:58:06] Số lượng file : 3
+[13:58:06] thành công file 115202265806AM002.jpg
+[14:00:00] Số lượng file : 4
+[14:00:00] thành công file 115202270000AM000.jpg
+[14:00:00] Số lượng file : 4
+[14:00:00] thành công file 115202270000AM001.jpg
+[14:00:00] Số lượng file : 4
+[14:00:00] thành công file 115202270000AM002.jpg
+[14:00:00] Số lượng file : 4
+[14:00:00] thành công file 115202270000AM003.jpg
+[14:04:35] Số lượng file : 3
+[14:04:35] thành công file 115202270435AM000.jpg
+[14:04:35] Số lượng file : 3
+[14:04:35] thành công file 115202270435AM001.jpg
+[14:04:35] Số lượng file : 3
+[14:04:35] thành công file 115202270435AM002.jpg
+[14:09:00] Số lượng file : 5
+[14:09:00] Lỗi rồi : System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Image original, Int32 width, Int32 height)
+   at UploadFileAPI.Services.UploadServices.ThayDoiKichThuocAnh(String ImageSavePath, String fileName, Int32 MaxWidthSideSize, FileStream Buffer) in D:\GoStay\UploadFile\UploadFileAPI\UploadFileAPI\Services\UploadServices.cs:line 53
+   at UploadFilesAPI.Controllers.UploadFileController.UploadFileAsync(List`1 file, Int32 width, String Hotel_Id, String Room_Id) in D:\GoStay\UploadFile\UploadFileAPI\UploadFileAPI\Controllers\UploadFileController.cs:line 196
+[14:09:00] Số lượng file : 5
+[14:09:00] Lỗi rồi : System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Image original, Int32 width, Int32 height)
+   at UploadFileAPI.Services.UploadServices.ThayDoiKichThuocAnh(String ImageSavePath, String fileName, Int32 MaxWidthSideSize, FileStream Buffer) in D:\GoStay\UploadFile\UploadFileAPI\UploadFileAPI\Services\UploadServices.cs:line 53
+   at UploadFilesAPI.Controllers.UploadFileController.UploadFileAsync(List`1 file, Int32 width, String Hotel_Id, String Room_Id) in D:\GoStay\UploadFile\UploadFileAPI\UploadFileAPI\Controllers\UploadFileController.cs:line 196
+[14:09:00] Số lượng file : 5
+[14:09:00] Lỗi rồi : System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Image original, Int32 width, Int32 height)
+   at UploadFileAPI.Services.UploadServices.ThayDoiKichThuocAnh(String ImageSavePath, String fileName, Int32 MaxWidthSideSize, FileStream Buffer) in D:\GoStay\UploadFile\UploadFileAPI\UploadFileAPI\Services\UploadServices.cs:line 53
+   at UploadFilesAPI.Controllers.UploadFileController.UploadFileAsync(List`1 file, Int32 width, String Hotel_Id, String Room_Id) in D:\GoStay\UploadFile\UploadFileAPI\UploadFileAPI\Controllers\UploadFileController.cs:line 196
+[14:09:00] Số lượng file : 5
+[14:09:00] Lỗi rồi : System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Image original, Int32 width, Int32 height)
+   at UploadFileAPI.Services.UploadServices.ThayDoiKichThuocAnh(String ImageSavePath, String fileName, Int32 MaxWidthSideSize, FileStream Buffer) in D:\GoStay\UploadFile\UploadFileAPI\UploadFileAPI\Services\UploadServices.cs:line 53
+   at UploadFilesAPI.Controllers.UploadFileController.UploadFileAsync(List`1 file, Int32 width, String Hotel_Id, String Room_Id) in D:\GoStay\UploadFile\UploadFileAPI\UploadFileAPI\Controllers\UploadFileController.cs:line 196
+[14:09:00] Số lượng file : 5
+[14:09:00] Lỗi rồi : System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Image original, Int32 width, Int32 height)
+   at UploadFileAPI.Services.UploadServices.ThayDoiKichThuocAnh(String ImageSavePath, String fileName, Int32 MaxWidthSideSize, FileStream Buffer) in D:\GoStay\UploadFile\UploadFileAPI\UploadFileAPI\Services\UploadServices.cs:line 53
+   at UploadFilesAPI.Controllers.UploadFileController.UploadFileAsync(List`1 file, Int32 width, String Hotel_Id, String Room_Id) in D:\GoStay\UploadFile\UploadFileAPI\UploadFileAPI\Controllers\UploadFileController.cs:line 196
+[14:11:20] Số lượng file : 7
+[14:11:20] thành công file 115202271120AM000.jpg
+[14:11:20] Số lượng file : 7
+[14:11:20] thành công file 115202271120AM001.jpg
+[14:11:20] Số lượng file : 7
+[14:11:20] thành công file 115202271120AM002.jpg
+[14:11:20] Số lượng file : 7
+[14:11:20] thành công file 115202271120AM003.jpg
+[14:11:20] Số lượng file : 7
+[14:11:20] thành công file 115202271120AM004.jpg
+[14:11:20] Số lượng file : 7
+[14:11:20] thành công file 115202271120AM005.jpg
+[14:11:20] Số lượng file : 7
+[14:11:20] thành công file 115202271120AM006.jpg
+[14:12:31] Số lượng file : 8
+[14:12:31] thành công file 115202271231AM000.jpg
+[14:12:31] Số lượng file : 8
+[14:12:32] thành công file 115202271231AM001.jpg
+[14:12:32] Số lượng file : 8
+[14:12:32] thành công file 115202271232AM002.jpg
+[14:12:32] Số lượng file : 8
+[14:12:32] thành công file 115202271232AM003.jpg
+[14:12:32] Số lượng file : 8
+[14:12:32] thành công file 115202271232AM004.jpg
+[14:12:32] Số lượng file : 8
+[14:12:32] thành công file 115202271232AM005.jpg
+[14:12:32] Số lượng file : 8
+[14:12:32] thành công file 115202271232AM006.jpg
+[14:12:32] Số lượng file : 8
+[14:12:32] thành công file 115202271232AM007.jpg
+[14:15:24] Số lượng file : 1
+[14:15:24] thành công file 115202271524AM000.jpg
+[14:18:22] Số lượng file : 1
+[14:18:22] thành công file 115202271822AM000.jpg
+[14:20:02] Số lượng file : 1
+[14:20:22] thành công file 115202272002AM000.jpg
+[14:20:57] Số lượng file : 1
+[14:21:02] thành công file 115202272057AM000.jpg
+[14:39:33] Số lượng file : 3
+[14:39:33] thành công file 115202273933AM000.jpg
+[14:39:33] Số lượng file : 3
+[14:39:33] thành công file 115202273933AM001.jpg
+[14:39:33] Số lượng file : 3
+[14:39:34] thành công file 115202273933AM002.jpg

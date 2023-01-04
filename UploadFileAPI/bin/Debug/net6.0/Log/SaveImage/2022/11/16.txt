@@ -1,0 +1,26 @@
+﻿[14:07:52] Số lượng file : 1
+[14:07:52] thành công file 1116202270752AM000.jpg
+[14:13:59] Số lượng file : 4
+[14:13:59] thành công file 1116202271359AM000.jpg
+[14:13:59] Số lượng file : 4
+[14:13:59] thành công file 1116202271359AM001.jpg
+[14:13:59] Số lượng file : 4
+[14:13:59] thành công file 1116202271359AM002.jpg
+[14:13:59] Số lượng file : 4
+[14:13:59] thành công file 1116202271359AM003.jpg
+[14:16:56] Số lượng file : 4
+[14:16:56] thành công file 1116202271656AM000.jpg
+[14:16:56] Số lượng file : 4
+[14:16:56] thành công file 1116202271656AM001.jpg
+[14:16:56] Số lượng file : 4
+[14:16:56] thành công file 1116202271656AM002.jpg
+[14:16:56] Số lượng file : 4
+[14:16:56] thành công file 1116202271656AM003.jpg
+[14:26:40] Số lượng file : 4
+[14:26:40] thành công file 1116202272640AM000.jpg
+[14:26:40] Số lượng file : 4
+[14:26:40] thành công file 1116202272640AM001.jpg
+[14:26:40] Số lượng file : 4
+[14:26:40] thành công file 1116202272640AM002.jpg
+[14:26:40] Số lượng file : 4
+[14:26:40] thành công file 1116202272640AM003.jpeg
